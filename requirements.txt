@@ -6,3 +6,4 @@ face_recognition
 Django==5.2.1
 djangorestframework
 django-cors-headers
+setuptools
