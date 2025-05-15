@@ -1,0 +1,8 @@
+cmake==3.22  
+wheel 
+dlib
+opencv-python
+face_recognition 
+Django==5.2.1
+djangorestframework
+django-cors-headers
